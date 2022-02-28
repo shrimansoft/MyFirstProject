@@ -9,3 +9,8 @@ int main(int n)
 	return 5;
 
 }
+
+
+int test(int n){
+	return n;
+}
